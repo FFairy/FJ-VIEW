@@ -1,2 +1,2 @@
-# FJ-VIEW
-FJ-VIEW
+# 前言 FJ-VIEW
+
